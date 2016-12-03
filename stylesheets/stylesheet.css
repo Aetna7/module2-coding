@@ -3,8 +3,10 @@
   box-sizing: border-box;
 }
 h1 {
-    margin-bottom: 15px;
-  text-align: center;
+    margin-bottom: 20px;
+    font-family: Arial;
+    font-size: 250%;
+    text-align: center;
 }
 .meal1 {
     border: 1px solid black;
@@ -12,9 +14,9 @@ h1 {
     margin-left: 70%;
     width: 30%;
     margin-bottom: 15px;
-    margin-right: -1%;
     padding-bottom: 2px;
     text-align: center;
+    font-size: 150%;
     line-height: 1.5em;
 
 }
@@ -25,8 +27,9 @@ h1 {
     width: 30%;
     margin-bottom: 15px;
     padding-bottom: 2px;
-  text-align: center;
-  line-height: 1.5em;
+    font-size: 150%;
+    text-align: center;
+    line-height: 1.5em;
 
 }
 .meal3 {
@@ -37,18 +40,18 @@ h1 {
     width: 30%;
     margin-bottom: 15px;
     padding-bottom: 2px;
-  text-align: center;
-  line-height: 1.5em;
+    font-size: 150%;
+    text-align: center;
+    line-height: 1.5em;
 
 }
 section {
   border: 1px solid black;
   background-color: rgb(180,180,180);
   width: 100%;
-  height: 170px;
+  height: 280px;
   padding-left: 10px;
   margin-left: 1%;
-  
   margin-bottom: 1%;
   font-family: Helvetica;
   color: black;
@@ -57,8 +60,8 @@ section {
 
 div {
   width: 100%;
- padding-right: 10px;
-  margin-left: auto;*/
+  padding-right: 10px;
+  font-size: 125%;  
 
 }
   /* Simple Responsive Framework. */
